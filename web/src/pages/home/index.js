@@ -1,9 +1,9 @@
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import Navbar from "./components/Navbar";
 
 function Home() {
   return (
-    <div>
+    <div className="bg-blue-600">
       <Navbar />
     </div>
   );
